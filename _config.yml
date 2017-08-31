@@ -1,6 +1,6 @@
 #
 # This file contains configuration flags to customize your site
-#
+#ß
 
 # Name of your site (displayed in the header)
 name: Your Name
@@ -85,4 +85,4 @@ exclude:
   - README.md
   - CNAME
 
-theme: jekyll-theme-minimal
+theme: jekyll-swiss
